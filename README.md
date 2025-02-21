@@ -1,4 +1,13 @@
 ## Hi there 👋
+I'm Irfan, a Mechanical Engineer with a deep passion for Control Systems Engineering. My work focuses on designing and implementing advanced control strategies for dynamic systems, with applications in robotics, motor control, and autonomous systems.
+
+🔧 **Background**: With a foundation in Mechanical Engineering, I specialize in system modeling, state estimation, and control algorithms like PID, ADRC, LQR, Sliding Mode Control, Luenberger Observer, and Kalman Filter.
+
+🚀 Interests:
+- Nonlinear & Robust Control
+- State Estimation & Kalman Filtering
+- Embedded Systems & Real-Time Control
+- Robotics & Mechatronics
 
 <!--
 **IrfNyafi/IrfNyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
